@@ -3,12 +3,12 @@ description: >-
   Royal Princess is dedicated to make every little girls feel like a princess,
   whether she slips her dainty little feet into our heeled shoes and slippers,
   put on make up on her face or steps into our Royal Princess Salon & Spa.
-dateModified: '2016-06-21T11:43:41.216Z'
-datePublished: '2016-06-21T14:48:01.183Z'
+dateModified: '2016-06-21T14:48:33.016Z'
+datePublished: '2016-06-21T14:48:33.475Z'
 title: Every girl deserves to be treated like a princess
 author: []
-starred: false
 sourcePath: _posts/2016-06-21-every-girl-deserves-to-be-treated-like-a-princess.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
