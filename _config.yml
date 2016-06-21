@@ -1,4 +1,3 @@
-layout_spectrum: 0.006926399655640125
 typography_spectrum: 0.8767824091482908
 color:
   brandStrength: 0.1653456527274102
@@ -11,4 +10,7 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-name: You Found It
+layout_spectrum: 0.006926399655640125
+name: Royal Princess
+favicon: null
+title: 'Every Little Girl Is A Princess '
